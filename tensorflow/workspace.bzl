@@ -198,7 +198,7 @@ def tf_workspace(path_prefix="", tf_repo_name=""):
           "http://mirror.bazel.build/github.com/google/gemmlowp/archive/a6f29d8ac48d63293f845f2253eccbf86bc28321.tar.gz",
           "https://github.com/google/gemmlowp/archive/a6f29d8ac48d63293f845f2253eccbf86bc28321.tar.gz",
       ],
-      sha256 = "75d40ea8e68b0d1644f052fffe8f14a410b2a73d40ccb859a95c0578d194ec26",
+      sha256 = "1e40863d9f15dd6b15f8f18f49c500944be6118d9fe17e9dc58a1c709cadbb8a",
       strip_prefix = "gemmlowp-a6f29d8ac48d63293f845f2253eccbf86bc28321",
   )
 
